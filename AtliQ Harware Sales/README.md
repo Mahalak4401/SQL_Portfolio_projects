@@ -2,6 +2,9 @@
 <h1 align = "center">AtliQ Hardware Retail Sales Insights </h1>
 
 ## 🚀 Project Overview
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/SQL_Portfolio_projects/blob/main/AtliQ%20Harware%20Sales/Image%20of%20AtliQ.png?raw=true">
+</div>
 
 The primary goal of this project is to analyze AtliQ Hardware's retail sales data to uncover actionable insights into sales trends, customer purchasing patterns, product performance, and store performance. These insights will enable AtliQ Hardware's management team to identify growth opportunities.
 
