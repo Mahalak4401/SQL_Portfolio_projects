@@ -2,6 +2,9 @@
 # Walmart Sales Analysis
 
 ## 🚀 Project Overview
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/SQL_Portfolio_projects/blob/main/Walmart_Sales_Analysis/Project%20Pipeline.png?raw=true">
+</div>
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. 
 
