@@ -22,19 +22,20 @@ The goal of this analysis is to:
 
 
 ## 🔑 Approach Used
-🞄 Data Wrangling: 
+<b>🞄 Data Wrangling:</b>
 
 This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 
-🞄 Feature Engineering: 
+<b>🞄 Feature Engineering:</b>
 
 This will help use generate some new columns from existing ones.
 
 Added New Columns - time_of_day, day_name, month_name.
 
-🞄 Exploratory Data Analysis :
+<b>🞄 Exploratory Data Analysis :</b>
 
 Exploratory data analysis is done to answer the listed questions and aims of this project.
+
 ## 💡 Results and Insights 
 
 This section will include your analysis findings:
