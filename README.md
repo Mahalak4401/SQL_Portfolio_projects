@@ -1,4 +1,4 @@
-# SQL_Portfolio_projects
+# SQL Portfolio Projects
 <h3> Walmart Sales Analysis </h3>
 <p><b>Project Display : </b><a href="Walmart_Sales_Analysis" target="_blank">Walmart Sales Analysis</a> 
 <p><b>Focus on : </b>Walmart sales focus on maximizing product availability, optimizing pricing strategies, and enhancing customer experience across diverse markets to drive growth and profitability.</p>
