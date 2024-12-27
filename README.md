@@ -1,1 +1,2 @@
 # SQL_Portfolio_projects
+<p><a href="https://www.wikipedia.org" target="_blank">Walmart Sales Analysis</a> - The primary goal of this project is to analyze Walmart's sales data to gain insights into sales trends, customer behavior, product performance, and store performance. These insights will help Walmart's management team make data-driven decisions to optimize sales, improve customer satisfaction, and increase profitability.</p>
