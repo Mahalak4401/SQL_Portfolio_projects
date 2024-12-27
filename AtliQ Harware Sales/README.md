@@ -72,7 +72,7 @@ Finance data focuses on identifying the most profitable product lines, branches,
 
 Database: MySQL for storing and querying sales data.
 
-Reporting: MySQL Workbench or other database clients for SQL queries.
+Reporting: MySQL Workbench for SQL queries.
 
 ## 💡 Results and Insights 
 
