@@ -6,59 +6,11 @@
   <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/SQL_Portfolio_projects/blob/main/AtliQ%20Harware%20Sales/Image%20of%20AtliQ.png?raw=true">
 </div>
 
-The primary goal of this project is to analyze AtliQ Hardware's retail sales data to uncover actionable insights into sales trends, customer purchasing patterns, product performance, and store performance. These insights will enable AtliQ Hardware's management team to identify growth opportunities.
+<p>The scope of this project is conducting an in-depth analysis of the dataset provided by AtliQ Hardware. The Primary goal is to derive actionable insights regarding sales performance, Market dynamics, Customer behaviour.</p>
 
 ## 🔎 Problem Statement 
-<h4>Key Focus Areas:</h4>
+<p>AtliQ Hardware is currently facing performance challenges due to the increasing size and complexity of its Excel files. To address this, the company has formed a dedicated team of data analysts to leverage MySQL for extracting valuable insights and enhancing operational efficiency.</p>
 
-<b>1.Sales Trends:</b>
-
- 🞄 Identify seasonal and monthly sales trends.
- 
- 🞄Analyze overall revenue growth over time.
-
-<b>2. Product Performance:</b>
-
- 🞄 Evaluate the performance of product categories and individual products.
- 🞄 Identify top-selling and underperforming products.
-
-<b>3. Customer Insights:</b>
-
- 🞄 Segment customers based on purchasing behavior.
- 🞄 Analyze repeat purchase trends and customer retention.
-
-<b>4.Profitability:</b>
-
- 🞄 Analyze gross income and gross margin percentage for products and stores.
-
-## 🔑 Approach Used
-
-<b>1. Data Exploration:</b>
-
- 🞄 Perform exploratory analysis using MySQL queries to clean and structure data.
- 🞄 Identify null values, outliers, and inconsistent data for cleaning.
-
-<b>2. Data Aggregation:</b>
-
- 🞄 Use GROUP BY, SUM(), AVG(), and other aggregate functions to summarize key metrics.
- 
- 🞄 Join tables to consolidate insights.
-
-<b>3. Trend Analysis:</b>
-
- 🞄 Analyze time-based trends using date functions like YEAR(), MONTH().
-
-<b>4. Segmentation:</b>
-
- 🞄 Segment data by store, region, customer, and product category for deeper insights.
-
-<b>5. Profitability Analysis:</b>
-
- 🞄 Calculate gross income and gross margin using manufacturing costs, deductions, and freight costs.
-
-<b>6. Reporting:</b>
-
- 🞄 Create insights reports and summaries directly using SQL queries.
 
 ## 📝 Business Questions 
 This project focuses on analyzing finance and sales data to provide actionable insights for better business decisions. It aims to identify trends, optimize pricing, profitability and growth.
@@ -71,18 +23,25 @@ The main focuses on identifying top-selling products, high-performing branches, 
 
 Finance data focuses on identifying the most profitable product lines, branches, and cost-saving opportunities to enhance overall profitability. 
 
+<b>3. Supply Chain Insights:</b>
+
+Supply Chain focuses on Forecast Accuracy.
+
 ## 🛠️ Tools and Technologies
 
-Database: MySQL for storing and querying sales data.
-
-Reporting: MySQL Workbench for SQL queries.
+MySQL, Excel
 
 ## 💡 Results and Insights 
 
 This section will include your analysis findings:
 
-🞄 Sales Insights: Yearly Sales, Monthly Sales, Total Gross Margin Sales, Total Net Sales
+✨ AtliQ Hardware achieved record sales in 2022.
 
-🞄 Product Performance: Top Products, Product    Sales 
+✨ India was the largest market in 2021 with the sales of $210.65M.
 
-🞄 Customer Perfotmance: Top Customers, Customer Sales For Region-wise
+✨ The AQ BZ All-in-one was the top selling product in 2021 with the sales of $33.75M
+
+✨ In 2021, Colombia, Chile and Brazil had the lowest Net Sales.
+
+✨ Cool Blue, Costco, AtliQ E-Store are the top 3 customers with highest forecast accuracy.
+
