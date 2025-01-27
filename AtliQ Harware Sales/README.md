@@ -1,5 +1,5 @@
  
-<h1 align = "center">AtliQ Hardware Retail Sales Insights </h1>
+<h1 align = "center">Finance and Supply Chain Analysis </h1>
 
 ## 🚀 Project Overview
 <div style="margin-bottom: 20px;">
